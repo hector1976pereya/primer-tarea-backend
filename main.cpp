@@ -1,17 +1,11 @@
 #include <iostream>
 
-
 using namespace std;
 
 
-int main() {
+int main(int argc, char** argv) {
 	
-
-	cout<<"\t\t Alumnos\n Hector\t Jose\t Juan";
+	cout<<"Hola";
 	
-	
-	
-	
-
 	return 0;
 }
